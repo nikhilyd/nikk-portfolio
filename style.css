@@ -81,6 +81,7 @@ align-items: center;
 padding: 1px 18px;
 background: #3674b5;
 color: white;
+   max-width: 100%;
     
 }
 .nav-links {
