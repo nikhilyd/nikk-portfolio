@@ -76,13 +76,11 @@ box-shadow: 0 0 15px rgba(102, 163, 255, 0.8); /* Glowing Effect */
 
 .navbar {
  display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1px 20px;
-    background: #3674b5;
-    color: white;
-    max-width: 100%; /* Prevents overflow */
-    overflow: hidden; /* Hides any extra content */
+justify-content: space-between;
+align-items: center;
+padding: 1px 18px;
+background: #3674b5;
+color: white;
     
 }
 .nav-links {
