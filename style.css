@@ -78,10 +78,10 @@ box-shadow: 0 0 15px rgba(102, 163, 255, 0.8); /* Glowing Effect */
  display: flex;
 justify-content: space-between;
 align-items: center;
-padding: 1px 18px;
+padding: 1px 17px;
 background: #3674b5;
 color: white;
-   max-width: 100%;
+
     
 }
 .nav-links {
